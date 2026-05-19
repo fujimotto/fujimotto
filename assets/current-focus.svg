@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Current Focus</title>
+  <desc id="desc">Five premium focus cards covering multiplayer infrastructure, backend systems, internal automation, performance and scalability, and large scale game ecosystems.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A1118"/>
+      <stop offset="0.52" stop-color="#101922"/>
+      <stop offset="1" stop-color="#0B1118"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17212C"/>
+      <stop offset="1" stop-color="#111923"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F6CF72"/>
+      <stop offset="0.45" stop-color="#C9932C"/>
+      <stop offset="1" stop-color="#7B4D12"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 36) rotate(144.812) scale(520 246)">
+      <stop stop-color="#C9932C" stop-opacity="0.26"/>
+      <stop offset="0.5" stop-color="#C9932C" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#C9932C" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softShadow" x="-20%" y="-25%" width="140%" height="150%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+    <filter id="goldGlow" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+    <style>
+      .kicker{font:700 11px Arial, Helvetica, sans-serif;letter-spacing:2px;fill:#CFA24C}
+      .title{font:700 20px Arial, Helvetica, sans-serif;fill:#F0F4FA}
+      .body{font:400 14px Arial, Helvetica, sans-serif;fill:#AEB8C6}
+      .num{font:700 12px Arial, Helvetica, sans-serif;letter-spacing:1.4px;fill:#6D7785}
+    </style>
+  </defs>
+
+  <rect width="1200" height="270" rx="18" fill="url(#panel)"/>
+  <rect width="1200" height="270" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="270" rx="18" fill="url(#glow)"/>
+  <path d="M32 54H1168" stroke="url(#gold)" stroke-opacity="0.42"/>
+  <path d="M32 232H1168" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <circle cx="1072" cy="45" r="3" fill="#D6AA55" filter="url(#goldGlow)"/>
+  <circle cx="930" cy="84" r="2" fill="#D6AA55" opacity="0.75"/>
+  <circle cx="1002" cy="136" r="2" fill="#D6AA55" opacity="0.55"/>
+  <path d="M930 84L1002 136L1072 45" stroke="#C9932C" stroke-opacity="0.16"/>
+
+  <text x="34" y="33" class="kicker">CURRENT FOCUS</text>
+  <text x="1064" y="33" text-anchor="end" class="num">SYSTEMS AT SCALE</text>
+
+  <g filter="url(#softShadow)">
+    <g transform="translate(34 75)">
+      <rect width="210" height="132" rx="12" fill="url(#card)" stroke="#34404D"/>
+      <rect x="1" y="1" width="208" height="3" rx="1.5" fill="url(#gold)" opacity="0.9"/>
+      <rect x="18" y="20" width="44" height="44" rx="11" fill="#0C141D" stroke="#4D3C1C"/>
+      <g transform="translate(28 30)" stroke="#D7A845" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="0" y="0" width="24" height="7" rx="1.5"/>
+        <rect x="0" y="17" width="24" height="7" rx="1.5"/>
+        <circle cx="5" cy="3.5" r="1" fill="#D7A845" stroke="none"/>
+        <circle cx="5" cy="20.5" r="1" fill="#D7A845" stroke="none"/>
+      </g>
+      <text x="78" y="31" class="kicker">FOCUS 01</text>
+      <text x="78" y="57" class="title">Multiplayer</text>
+      <text x="78" y="80" class="title">Infrastructure</text>
+      <text x="18" y="105" class="body">Building and scaling robust</text>
+      <text x="18" y="125" class="body">distributed multiplayer systems.</text>
+    </g>
+
+    <g transform="translate(264 75)">
+      <rect width="210" height="132" rx="12" fill="url(#card)" stroke="#34404D"/>
+      <rect x="1" y="1" width="208" height="3" rx="1.5" fill="url(#gold)" opacity="0.9"/>
+      <rect x="18" y="20" width="44" height="44" rx="11" fill="#0C141D" stroke="#4D3C1C"/>
+      <g transform="translate(27 29)" stroke="#D7A845" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M8 5L2 12L8 19"/>
+        <path d="M20 5L26 12L20 19"/>
+        <path d="M11 24L17 0"/>
+      </g>
+      <text x="78" y="31" class="kicker">FOCUS 02</text>
+      <text x="78" y="57" class="title">Backend</text>
+      <text x="78" y="80" class="title">Systems</text>
+      <text x="18" y="105" class="body">Clean, reliable services for</text>
+      <text x="18" y="125" class="body">high performance workloads.</text>
+    </g>
+
+    <g transform="translate(494 75)">
+      <rect width="210" height="132" rx="12" fill="url(#card)" stroke="#34404D"/>
+      <rect x="1" y="1" width="208" height="3" rx="1.5" fill="url(#gold)" opacity="0.9"/>
+      <rect x="18" y="20" width="44" height="44" rx="11" fill="#0C141D" stroke="#4D3C1C"/>
+      <g transform="translate(28 30)" stroke="#D7A845" stroke-width="2" stroke-linecap="round">
+        <circle cx="12" cy="12" r="4"/>
+        <path d="M12 0V4M12 20V24M0 12H4M20 12H24M3.5 3.5L6.5 6.5M17.5 17.5L20.5 20.5M20.5 3.5L17.5 6.5M6.5 17.5L3.5 20.5"/>
+      </g>
+      <text x="78" y="31" class="kicker">FOCUS 03</text>
+      <text x="78" y="57" class="title">Internal</text>
+      <text x="78" y="80" class="title">Automation</text>
+      <text x="18" y="105" class="body">Automating workflows and</text>
+      <text x="18" y="125" class="body">developer productivity at scale.</text>
+    </g>
+
+    <g transform="translate(724 75)">
+      <rect width="210" height="132" rx="12" fill="url(#card)" stroke="#34404D"/>
+      <rect x="1" y="1" width="208" height="3" rx="1.5" fill="url(#gold)" opacity="0.9"/>
+      <rect x="18" y="20" width="44" height="44" rx="11" fill="#0C141D" stroke="#4D3C1C"/>
+      <g transform="translate(28 31)" stroke="#D7A845" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M0 22L8 14L14 19L24 5"/>
+        <path d="M24 5H17M24 5V12"/>
+      </g>
+      <text x="78" y="31" class="kicker">FOCUS 04</text>
+      <text x="78" y="57" class="title">Performance &amp;</text>
+      <text x="78" y="80" class="title">Scalability</text>
+      <text x="18" y="105" class="body">Optimizing systems for speed</text>
+      <text x="18" y="125" class="body">and horizontal scale.</text>
+    </g>
+
+    <g transform="translate(954 75)">
+      <rect width="210" height="132" rx="12" fill="url(#card)" stroke="#34404D"/>
+      <rect x="1" y="1" width="208" height="3" rx="1.5" fill="url(#gold)" opacity="0.9"/>
+      <rect x="18" y="20" width="44" height="44" rx="11" fill="#0C141D" stroke="#4D3C1C"/>
+      <g transform="translate(28 30)" stroke="#D7A845" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="11"/>
+        <path d="M1 12H23"/>
+        <path d="M12 1C16 5 18 8.5 18 12C18 15.5 16 19 12 23C8 19 6 15.5 6 12C6 8.5 8 5 12 1Z"/>
+      </g>
+      <text x="78" y="31" class="kicker">FOCUS 05</text>
+      <text x="78" y="57" class="title">Large Scale</text>
+      <text x="78" y="80" class="title">Ecosystems</text>
+      <text x="18" y="105" class="body">Operating complex ecosystems</text>
+      <text x="18" y="125" class="body">with millions of interactions.</text>
+    </g>
+  </g>
+</svg>
