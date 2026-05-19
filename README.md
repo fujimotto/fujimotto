@@ -56,7 +56,7 @@ Focused on performance, scalability, reliability and engineering systems built t
 
 <br><br>
 
-### Core Engineering
+### Engineering Focus
 
 ![OOP](https://img.shields.io/badge/OOP-1F2937?style=for-the-badge)
 ![Scalability](https://img.shields.io/badge/Scalability-1F2937?style=for-the-badge)
