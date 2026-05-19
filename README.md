@@ -70,11 +70,6 @@ Focused on:
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fujimotto&theme=github_dark"/>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fujimotto&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fujimotto&theme=github_dark"/>
-</p>
-
 ---
 
 <div align="center">
