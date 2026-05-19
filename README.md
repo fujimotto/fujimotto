@@ -1,16 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Albert Fujimotto
-
-### Software Engineer
-
-**Backend • Infrastructure • Automation**
-
-Building large scale multiplayer systems, backend infrastructure and automation for **FPlayT**.
-
-</div>
-
-<br>
+<p align="center">
+  <img src="./assets/banner.png" width="100%" />
+</p>
 
 ## About
 
