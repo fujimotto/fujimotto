@@ -55,12 +55,18 @@ Focused on performance, scalability, reliability and engineering systems built t
 
 ## Current Focus
 
-<table>
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=1&section=header"/>
+
+</p>
+
+<table width="100%">
 <tr>
 
-<td width="20%" valign="top">
+<td width="19%" valign="top">
 
-<img src="./assets/icons/server.svg" width="28"/>
+<img src="./assets/icons/server.svg" width="24"/>
 
 ### Multiplayer Infrastructure
 
@@ -68,9 +74,11 @@ Building and scaling robust distributed multiplayer systems.
 
 </td>
 
-<td width="20%" valign="top">
+<td width="2%"></td>
 
-<img src="./assets/icons/code.svg" width="28"/>
+<td width="19%" valign="top">
+
+<img src="./assets/icons/code.svg" width="24"/>
 
 ### Backend Systems
 
@@ -78,9 +86,11 @@ Designing clean, reliable and high performance backend services.
 
 </td>
 
-<td width="20%" valign="top">
+<td width="2%"></td>
 
-<img src="./assets/icons/automation.svg" width="28"/>
+<td width="19%" valign="top">
+
+<img src="./assets/icons/automation.svg" width="24"/>
 
 ### Internal Automation
 
@@ -88,9 +98,11 @@ Automating processes and improving developer productivity at scale.
 
 </td>
 
-<td width="20%" valign="top">
+<td width="2%"></td>
 
-<img src="./assets/icons/performance.svg" width="28"/>
+<td width="19%" valign="top">
+
+<img src="./assets/icons/performance.svg" width="24"/>
 
 ### Performance & Scalability
 
@@ -98,9 +110,11 @@ Optimizing systems for maximum performance and horizontal scalability.
 
 </td>
 
-<td width="20%" valign="top">
+<td width="2%"></td>
 
-<img src="./assets/icons/ecosystem.svg" width="28"/>
+<td width="19%" valign="top">
+
+<img src="./assets/icons/ecosystem.svg" width="24"/>
 
 ### Large Scale Ecosystems
 
