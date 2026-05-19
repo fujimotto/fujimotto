@@ -26,7 +26,18 @@ Focused on performance, scalability, reliability and engineering systems built t
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,lua,rust&perline=5" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,lua&perline=5" />
+
+<br>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=5" />
+
+<p>
+  <img height="48" src="https://cdn.simpleicons.org/mariadb" />
+  <img height="48" src="https://cdn.simpleicons.org/microsoftsqlserver" />
+</p>
 
 <br>
 
@@ -34,17 +45,16 @@ Focused on performance, scalability, reliability and engineering systems built t
 
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare&perline=4" />
 
+<p>
+  <img height="48" src="https://cdn.simpleicons.org/ubuntu" />
+  <img height="48" src="https://cdn.simpleicons.org/windows" />
+</p>
+
 <br>
 
-### Data
+### Engineering
 
-<img src="https://skillicons.dev/icons?i=mysql,redis&perline=2" />
-
-<br>
-
-### Automation
-
-<img src="https://skillicons.dev/icons?i=powershell,git&perline=2" />
+`OOP` • `Scalability` • `Automation` • `Performance` • `Backend Architecture`
 
 </div>
 
