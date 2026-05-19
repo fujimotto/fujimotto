@@ -1,9 +1,14 @@
+<div align="center">
+
 # 👋 Hey, I'm Albert Fujimotto
 
-### Software Engineer  
+### Software Engineer
+
 Backend • Infrastructure • Automation
 
 Building large scale multiplayer systems, backend infrastructure and automation for FPlayT.
+
+</div>
 
 ---
 
@@ -24,16 +29,28 @@ Focused on:
 ## Core Expertise
 
 ### Backend
-`PHP` `Laravel` `Lua` `Node.js` `Rust`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,lua,rust" />
+</p>
 
 ### Infrastructure
-`Linux` `Windows Server` `Docker` `Nginx` `Cloudflare` `OVH`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare" />
+</p>
 
 ### Data
-`MariaDB` `MySQL` `Redis`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,redis" />
+</p>
 
 ### Automation
-`PowerShell` `Internal Tooling`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=powershell,git" />
+</p>
 
 ---
 
@@ -47,4 +64,20 @@ Focused on:
 
 ---
 
-> Building systems at scale
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fujimotto&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujimotto&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Building systems at scale
+
+</div>
