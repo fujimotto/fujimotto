@@ -58,7 +58,12 @@ Focused on performance, scalability, reliability and engineering systems built t
 
 ### Core Engineering
 
-`OOP` • `Scalability` • `Automation` • `Performance` • `Backend Architecture` • `Large Scale Systems`
+![OOP](https://img.shields.io/badge/OOP-1F2937?style=for-the-badge)
+![Scalability](https://img.shields.io/badge/Scalability-1F2937?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-1F2937?style=for-the-badge)
+![Performance](https://img.shields.io/badge/Performance-1F2937?style=for-the-badge)
+![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-1F2937?style=for-the-badge)
+![Large Scale Systems](https://img.shields.io/badge/Large_Scale_Systems-1F2937?style=for-the-badge)
 
 </div>
 
