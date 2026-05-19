@@ -4,55 +4,51 @@
 
 ### Software Engineer
 
-Backend • Infrastructure • Automation
+**Backend • Infrastructure • Automation**
 
-Building large scale multiplayer systems, backend infrastructure and automation for FPlayT.
+Building large scale multiplayer systems, backend infrastructure and automation for **FPlayT**.
 
 </div>
 
----
+<br>
 
 ## About
 
-I build and maintain large scale multiplayer systems, backend infrastructure and automation.
+I design and maintain large scale multiplayer systems, backend infrastructure and automation for FPlayT.
 
-Focused on:
+Focused on performance, scalability, reliability and engineering systems built to operate at scale.
 
-- Scalability
-- Performance
-- Infrastructure
-- Reliability
-- Multiplayer ecosystems
-
----
+<br>
 
 ## Core Expertise
 
+<div align="center">
+
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,lua,rust" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,lua,rust&perline=5" />
+
+<br>
 
 ### Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare" />
-</p>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare&perline=4" />
+
+<br>
 
 ### Data
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,redis" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,redis&perline=2" />
+
+<br>
 
 ### Automation
 
-<p>
-  <img src="https://skillicons.dev/icons?i=powershell,git" />
-</p>
+<img src="https://skillicons.dev/icons?i=powershell,git&perline=2" />
 
----
+</div>
+
+<br>
 
 ## Current Focus
 
@@ -62,15 +58,15 @@ Focused on:
 - Performance & scalability
 - Large scale game ecosystems
 
----
+<br>
 
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fujimotto&theme=github_dark"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fujimotto&theme=github_dark"/>
 </p>
 
----
+<br>
 
 <div align="center">
 
