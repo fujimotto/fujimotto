@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Albert Fujimotto Banner" width="100%" />
+  <img src="./assets/banner.png?v=1" alt="Albert Fujimotto Banner" width="100%" />
 </p>
 
 ## About
