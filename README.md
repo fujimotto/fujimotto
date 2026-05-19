@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Albert Fujimotto Banner" width="100%" />
+  <img src="./assets/banner-compact.png" alt="Albert Fujimotto Banner" width="100%" />
 </p>
 
 ## About
@@ -55,9 +55,45 @@ Focused on performance, scalability, reliability and engineering systems built t
 
 ## Current Focus
 
-<p align="center">
-  <img src="./assets/current-focus.svg" alt="Current Focus: Multiplayer Infrastructure, Backend Systems, Internal Automation, Performance and Scalability, Large Scale Ecosystems" width="100%" />
-</p>
+<table>
+  <tr>
+    <td width="20%" valign="top">
+      <img src="./assets/icons/server.svg" width="32" alt="" />
+      <br />
+      <strong>Multiplayer<br />Infrastructure</strong>
+      <br /><br />
+      <sub>Building and scaling robust distributed multiplayer systems.</sub>
+    </td>
+    <td width="20%" valign="top">
+      <img src="./assets/icons/code.svg" width="32" alt="" />
+      <br />
+      <strong>Backend<br />Systems</strong>
+      <br /><br />
+      <sub>Designing clean, reliable and high-performance backend services.</sub>
+    </td>
+    <td width="20%" valign="top">
+      <img src="./assets/icons/automation.svg" width="32" alt="" />
+      <br />
+      <strong>Internal<br />Automation</strong>
+      <br /><br />
+      <sub>Automating processes and improving developer productivity at scale.</sub>
+    </td>
+    <td width="20%" valign="top">
+      <img src="./assets/icons/performance.svg" width="32" alt="" />
+      <br />
+      <strong>Performance &amp;<br />Scalability</strong>
+      <br /><br />
+      <sub>Optimizing systems for maximum performance and horizontal scalability.</sub>
+    </td>
+    <td width="20%" valign="top">
+      <img src="./assets/icons/ecosystem.svg" width="32" alt="" />
+      <br />
+      <strong>Large Scale Game<br />Ecosystems</strong>
+      <br /><br />
+      <sub>Operating and evolving complex ecosystems with millions of interactions.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
