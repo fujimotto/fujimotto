@@ -64,15 +64,16 @@ Focused on:
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fujimotto&theme=github_dark"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fujimotto&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=C9A45C&text_color=C9D1D9&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujimotto&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fujimotto&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fujimotto&theme=github_dark"/>
+</p>
 
 ---
 
