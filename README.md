@@ -26,31 +26,26 @@ Focused on performance, scalability, reliability and engineering systems built t
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,lua&perline=5" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,lua&theme=dark" />
 
-<br>
+<br><br>
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=5" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 
-<p>
-  <img height="48" src="https://cdn.simpleicons.org/mariadb" />
-  <img height="48" src="https://cdn.simpleicons.org/microsoftsqlserver" />
-</p>
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" />
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 
-<br>
+<br><br>
 
 ### Infrastructure
 
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare&perline=4" />
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,ubuntu&theme=dark" />
 
-<p>
-  <img height="48" src="https://cdn.simpleicons.org/ubuntu" />
-  <img height="48" src="https://cdn.simpleicons.org/windows" />
-</p>
+<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
-<br>
+<br><br>
 
 ### Engineering
 
