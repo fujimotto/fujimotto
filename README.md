@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hey, I'm Albert Fujimotto
 
-<!--
-**fujimotto/fujimotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer  
+Backend • Infrastructure • Automation
 
-Here are some ideas to get you started:
+Building large scale multiplayer systems, backend infrastructure and automation for FPlayT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+I build and maintain large scale multiplayer systems, backend infrastructure and automation.
+
+Focused on:
+
+- Scalability
+- Performance
+- Infrastructure
+- Reliability
+- Multiplayer ecosystems
+
+---
+
+## Core Expertise
+
+### Backend
+`PHP` `Laravel` `Lua` `Node.js` `Rust`
+
+### Infrastructure
+`Linux` `Windows Server` `Docker` `Nginx` `Cloudflare` `OVH`
+
+### Data
+`MariaDB` `MySQL` `Redis`
+
+### Automation
+`PowerShell` `Internal Tooling`
+
+---
+
+## Current Focus
+
+- Multiplayer infrastructure
+- Backend systems
+- Internal automation
+- Performance & scalability
+- Large scale game ecosystems
+
+---
+
+> Building systems at scale
