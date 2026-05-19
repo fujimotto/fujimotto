@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner_fujy.png" alt="Albert Fujimotto Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Albert Fujimotto Banner" width="100%" />
 </p>
 
 ## About
@@ -60,58 +60,50 @@ Focused on performance, scalability, reliability and engineering systems built t
 
 <td width="20%" valign="top">
 
-<svg width="28" height="28" viewBox="0 0 24 24" fill="none">
-<path d="M4 4H20V8H4V4ZM4 10H20V14H4V10ZM4 16H20V20H4V16Z" fill="#C9A45C"/>
-</svg>
+<img src="./assets/icons/server.svg" width="28"/>
 
 ### Multiplayer Infrastructure
+
 Building and scaling robust distributed multiplayer systems.
 
 </td>
 
 <td width="20%" valign="top">
 
-<svg width="28" height="28" viewBox="0 0 24 24" fill="none">
-<path d="M8 8L4 12L8 16M16 8L20 12L16 16M10 20L14 4" stroke="#C9A45C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<img src="./assets/icons/code.svg" width="28"/>
 
 ### Backend Systems
+
 Designing clean, reliable and high performance backend services.
 
 </td>
 
 <td width="20%" valign="top">
 
-<svg width="28" height="28" viewBox="0 0 24 24" fill="none">
-<path d="M12 8V4M12 20V16M4 12H8M16 12H20M6.34 6.34L9.17 9.17M14.83 14.83L17.66 17.66M17.66 6.34L14.83 9.17M9.17 14.83L6.34 17.66" stroke="#C9A45C" stroke-width="2"/>
-<circle cx="12" cy="12" r="3" fill="#C9A45C"/>
-</svg>
+<img src="./assets/icons/automation.svg" width="28"/>
 
 ### Internal Automation
+
 Automating processes and improving developer productivity at scale.
 
 </td>
 
 <td width="20%" valign="top">
 
-<svg width="28" height="28" viewBox="0 0 24 24" fill="none">
-<path d="M4 20L10 14L14 18L20 8" stroke="#C9A45C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M20 8H15M20 8V13" stroke="#C9A45C" stroke-width="2"/>
-</svg>
+<img src="./assets/icons/performance.svg" width="28"/>
 
 ### Performance & Scalability
+
 Optimizing systems for maximum performance and horizontal scalability.
 
 </td>
 
 <td width="20%" valign="top">
 
-<svg width="28" height="28" viewBox="0 0 24 24" fill="none">
-<circle cx="12" cy="12" r="9" stroke="#C9A45C" stroke-width="2"/>
-<path d="M3 12H21M12 3C15 6 16.5 9 16.5 12C16.5 15 15 18 12 21C9 18 7.5 15 7.5 12C7.5 9 9 6 12 3Z" stroke="#C9A45C" stroke-width="2"/>
-</svg>
+<img src="./assets/icons/ecosystem.svg" width="28"/>
 
 ### Large Scale Ecosystems
+
 Operating and evolving complex ecosystems with millions of interactions.
 
 </td>
